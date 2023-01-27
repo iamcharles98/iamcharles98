@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### ✏️ Studying Link : https://www.notion.so/Studying-3bfd557262bb45ed955dfd301a1fbd43
+#### ✏️ Studying Link : https://charles98.notion.site/Studying-3bfd557262bb45ed955dfd301a1fbd43
 
 ![iamcharles98's github stats](https://github-readme-stats.vercel.app/api?username=iamcharles98&show_icons=true)
 [![iamcharles98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcharles98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/iamcharles98)
