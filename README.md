@@ -27,7 +27,9 @@
   </p>
    </div>
 
-
+<h3 align="center">Check My Portpolio 👍</h3>
+<p align="center">
+<a href="https://www.notion.so/charles98/7e6284ab35ab41f582d333d3d3ac3dac?pvs=4" target="blank">Click Here !!</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
