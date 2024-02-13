@@ -5,7 +5,7 @@
 - 객체지향적 프로그래밍을 하기위해 노력하고 있습니다. <br><br>
 
 <div align="center">  
-  <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstn0672" />
+  <img src ="https://mazassumnida.wtf/api/v2/generate_badge?boj=ckstn0672" />
   <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=iamcharles98&theme=flag-india&show_icons=true" />
 <br>
