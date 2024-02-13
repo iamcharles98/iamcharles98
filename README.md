@@ -1,53 +1,83 @@
 
-<h1 align="center">Hi 👋, I'm Charles</h1>
+<h1 align="left">Hi 👋, I'm Charles</h1>
+- 안녕하세요 ! 백엔드 개발자 정찬수 입니다. <br>
+- 기술이 동작되는 내부 원리를 깊이있게 이해하는 것을 추구합니다. <br>
+- 객체지향적 프로그래밍을 하기위해 노력하고 있습니다. <br><br>
+
+<div align="center">  
+  <img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstn0672" />
+  <br>
+  <img src = "https://github-readme-stats.vercel.app/api?username=iamcharles98&theme=flag-india&show_icons=true" />
+<br>
+</div>
+
+***
+
+### Language
+<div>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/JAVA-Lv3-orange?style=flat-square"></img>  
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/C-Lv2-blue?style=flat-square&logo=C&logoColor=blue"></img>  
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/Python-Lv2-blue?style=flat-square&logo=Python&logoColor=blue"></img>
+</div>
+<br>
+<br>
+<div>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/Lv3-orange?style=flat-square"></img>
+<p>: 언어를 활용하여 능숙한 개발이 가능</p>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/Lv2-blue?style=flat-square"></img>
+<p>: 언어를 이해할 수 있고 코드 작성이 가능</p>
+</div>
+
+***
+
+### FrameWork
+<div>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/SPRINGBOOT-green?style=flat-square&logo=springboot"></img>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/Junit5-black?style=flat-square&logo=junit5"></img>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/Mockito-grey?style=flat-square"></img>
+<br>
+</div>
+
+***
+
+### DB
+<div>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL"></img>
+<br>
+</div>
+
+***
+
+### Infra
+<div>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/AWS_EC2-blue?style=flat-square&logo=amazonec2"></img>
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/LINUX-orange?style=flat-square&logo=linux"></img>
+<br>
+</div>
+
+***
+
+### Blog & SNS
+<div>
+<a href="https://velog.io/@iamcharles98/posts" target="blank">
+  <img align ="left" alt="Static Badge" src="https://img.shields.io/badge/BLOG-green?style=plastic&logo=velog" height="30" width="50" ></img>
+</a>
+<a href="https://instagram.com/chansoooliveira" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chansoooliveira" height="30" width="40"/>
+</a> 
+<br>
+</div>
+
+***
 
 
-</p>
+### Portpolio 
+<div align="center" >
+<a href="https://www.notion.so/charles98/7e6284ab35ab41f582d333d3d3ac3dac?pvs=4" target="blank">
+<img align ="left" alt="Static Badge" src="https://img.shields.io/badge/CLICK_HERE!-orange?style=plastic" height="30" width="60" ></img>
+</a>
+</div>
 
-
-<div align="center">
-  <h4 align="center">⭕️ Language </h4>
-  <p align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
-  <h4 align="center">⚙️ Frame Work </h4>
-  <p align="center">
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  </p>
-  <h4 align="center"> Data Base </h4>
-  <p align="center">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  </p>
-  <h4 align="center"> Dev-Ops </h4>
-  <p align="center">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  </p>
-  <h4 align="center"> Tool </h4>
-  <p align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  </p>
-   </div>
-
-<h3 align="center">Check My Portpolio 👍</h3>
-<p align="center">
-<a href="https://www.notion.so/charles98/7e6284ab35ab41f582d333d3d3ac3dac?pvs=4" target="blank">Click Here !!</a>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/chansoooliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chansoooliveira" height="30" width="40" /></a>
 
   
- 
-<!--
-**iamcharles98/iamcharles98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
