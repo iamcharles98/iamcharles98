@@ -73,7 +73,7 @@
 
 ### Portpolio 
 <div align="center" >
-<a href="https://www.notion.so/charles98/7e6284ab35ab41f582d333d3d3ac3dac?pvs=4" target="blank">
+<a href="https://charles98.notion.site/About-Me-10c434d77774804ab52ed71aac29fa95?pvs=4">
 <img align ="left" alt="Static Badge" src="https://img.shields.io/badge/CLICK_HERE!-orange?style=plastic" height="30" width="60" ></img>
 </a>
 </div>
